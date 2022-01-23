@@ -1,7 +1,9 @@
 # movie-style-networking
 Create a movie-style visualization of the trace route a packet takes to reach a destination IP.
 
- <img src="git/exampletracert.png" width="350" title="Example Trace Route">
+<p align="center">
+ <img src="git/exampletracert.png" width=1000 title="Example Trace Route">
+</p>
 
 # Quick Start
 `visual.py -t 146.97.33.2`
